@@ -2,7 +2,49 @@ package UDP;
 
 public class Main {
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
+| **2.1.1** | Tìm các số còn thiếu trong `1..n`, dãy đầu vào không trùng. |
+| **2.1.2** | Sắp xếp các đoạn `chuỗi:vị_trí` rồi nối thành chuỗi hoàn chỉnh. |
+| **2.1.3** | Tính tổng chữ số của một số nguyên lớn. |
+| **2.1.4** | Tìm các số còn thiếu trong `1..n`, dãy đầu vào có thể trùng. |
+| **2.1.5** | Tìm giá trị lớn nhất và nhỏ nhất của 50 số nguyên. |
+| **2.1.6** | Giải mã Caesar với độ dịch `s`. |
+| **2.1.7** | Tìm số lớn thứ hai và nhỏ thứ hai của 50 số nguyên. |
+| **2.1.8** | Liệt kê `n` số nguyên tố đầu tiên. |
+| **2.1.9** | Tìm max trong mỗi cửa sổ trượt kích thước `k`. |
+| **2.1.10** | Tính tổng và hiệu `a - b` của hai số nguyên lớn. |
+| **2.2.1** | Tìm ký tự xuất hiện nhiều nhất và liệt kê các vị trí xuất hiện. |
+| **2.2.2** | Cộng hai số nhị phân, gửi tổng dưới dạng thập phân. |
+| **2.2.3** | Xóa khỏi `str1` các ký tự có trong `str2`, giữ nguyên thứ tự. |
+| **2.2.4** | Viết hoa chữ đầu mỗi từ, các chữ còn lại viết thường. |
+| **2.2.5** | Loại số, ký tự đặc biệt và ký tự trùng; giữ thứ tự chữ cái. |
+| **2.2.6** | Đếm từng ký tự rồi ghép dạng `3W1E2a…` theo thứ tự xuất hiện đầu tiên. |
+| **2.2.7** | Đếm ký tự, xếp tần suất giảm dần; bằng nhau thì xếp theo bảng chữ cái. |
+| **2.2.8** | Lọc các từ chỉ gồm nguyên âm `a, e, i, o, u`. |
+| **2.2.9** | Sắp xếp các từ theo thứ tự từ điển giảm dần. |
+| **2.3.1** | **Student:** chuẩn hóa tên, tạo email dạng `namnvt@ptit.edu.vn`. |
+| **2.3.2** | **Employee:** chuẩn hóa tên, tăng lương theo tổng chữ số năm sinh, đổi ngày tuyển dụng sang `dd/mm/yyyy`. |
+| **2.3.3** | **Customer:** tên dạng `DUONG, Nguyen Van Hai`, ngày sinh `dd/mm/yyyy`, tài khoản dạng `nvhduong`. |
+| **2.3.4** | **Product:** đổi chỗ từ đầu/cuối của tên và đảo ngược chữ số số lượng. |
+| **2.3.5** | **Book:** chuẩn hóa tiêu đề, tác giả `"Họ, Tên"`, ISBN có dấu gạch nối và ngày xuất bản `mm/yyyy`. |
 package UDP;
 //Data1
 import java.net.DatagramPacket;
